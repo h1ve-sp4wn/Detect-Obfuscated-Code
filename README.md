@@ -1,10 +1,10 @@
 To build and run the Docker container:
 
-docker build -t detect_obfuscated_code .
+    docker build -t detect_obfuscated_code .
 
 Run the Docker container: Once the image is built, you can run the container:
 
-docker run -it detect_obfuscated_code
+    docker run -it detect_obfuscated_code
 
 Customizations and Enhancements:
 
